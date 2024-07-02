@@ -1,2 +1,2 @@
 # Tic-Tac-Toe
-Tic Tac Toe exercise in Reaxt
+Tic Tac Toe exercise in React
